@@ -1,0 +1,28 @@
+  body
+  {
+    color: white;
+    background-image: url("inazuma.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  .heading
+  {
+    width: 80%;
+    font-size: 22px;
+  }
+  #camera 
+  {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px; 
+  }
+  .nameOfObjects, #resultObjectName  , #resultObjectAccuracy
+  {
+    color: rgb(254, 182, 255);
+  }
+.b1 {
+  background-color: pink;
+}
+.b2 {
+  background-color: palevioletred;
+}
